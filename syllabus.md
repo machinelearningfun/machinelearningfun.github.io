@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /rsyllabus/
-title:  syllabus
+permalink: /syllabus/
+title:   R syllabus
 description: 
 ---
 

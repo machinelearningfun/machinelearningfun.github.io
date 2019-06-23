@@ -7,43 +7,28 @@ description:
 
 **Day 1**
 
-* Introduction to Data Science
-* R Basics
-* Data Manipulation with `tidyverse`           
-
+* Tidy Text Format       
+* TF- IDF        
 
 **Day 2**                 
-* Data Visualization and Exploratory Data Analysis with `ggplot2`       
-* Case Study 1 on Exploratory Data Analysis          
+
+Sentiment Analysis            
 
 **Day 3**
-* Case Study 2 on Exploratory Data Analysis             
-* Modelling basics             
-* Cross Validation            
+
+End to End Case Study 1 `Part 1`       
 
 **Day 4**
-* Linear Regression        
-* Ridge and Lasso Regression                 
+
+End to End Case Study 1 `Part 2`               
 
 **Day 5**
-* Logistic Regression             
+
+End to End Case Study 2 `Part 1`    
 
 **Day 6**
-* Decision Trees            
-* Building a Data Science Portfolio           
-          
-**Day 7**               
+       
+End to End Case Study 2 `Part 2`      
 
-`End to End machine learning Part 1`       
 
-- Exploratory Data Analysis            
-- Feature Engineering            
-                        
-**Day 8**            
-
-`End to End machine learning Part 2 `      
-   
-- Modelling using Generalized Linear models , XGBoost            
-- Wrap up         
-
-**Have Fun doing Machine Learning!**
+**Have Fun doing Text Mining!**
