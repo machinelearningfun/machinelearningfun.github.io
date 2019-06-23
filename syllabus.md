@@ -34,6 +34,8 @@ description:
           
 **Day 7**               
 
+Use the learnings in a **Kaggle competition**       
+
 `End to End machine learning Part 1`       
 
 - Exploratory Data Analysis            
