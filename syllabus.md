@@ -22,11 +22,14 @@ description:
 * Cross Validation            
 
 **Day 4**
-* Linear Regression               
+* Linear Regression        
+* Ridge and Lasso Regression                 
 
 **Day 5**
 * Logistic Regression             
 
 **Day 6**
-* Decision Trees             
+* Decision Trees            
 * Building a Data Science Portfolio           
+          
+          
