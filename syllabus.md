@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /Rsyllabus/
+permalink: /rsyllabus/
 title:  syllabus
 description: 
 ---
