@@ -1,0 +1,28 @@
+# Site settings
+title: *folio
+email: you@example.com
+description: 
+baseurl:  
+url:  "http://datasciencehandsoncourseinr.github.io"
+twitter_username: twitter_username
+github_username:  github_username
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
+
+
