@@ -32,14 +32,18 @@ description:
 * Decision Trees            
 * Building a Data Science Portfolio           
           
-**Day 7**              
-End to End machine learning Part 1 
+**Day 7**               
+
+`End to End machine learning Part 1`       
+
 - Exploratory Data Analysis            
 - Feature Engineering            
                         
-**Day 8**                
-End to End machine learning Part 2         
+**Day 8**            
+
+`End to End machine learning Part 2 `      
+   
 - Modelling using Generalized Linear models , XGBoost            
 - Wrap up         
 
-**Have Fun doing Machine Learning!**
+**Have Fun doing Machine Learning!**      
