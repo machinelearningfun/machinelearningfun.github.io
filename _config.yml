@@ -2,7 +2,7 @@
 title: *folio
 email: you@example.com
 description: 
-baseurl:  
+baseurl:"http://machinelearningfun.github.io/"  
 url:  "http://machinelearningfun.github.io"
 twitter_username: twitter_username
 github_username:  github_username
