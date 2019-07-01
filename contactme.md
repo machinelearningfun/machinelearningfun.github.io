@@ -1,10 +1,6 @@
 ---
-layout: post
-permalink: /Contact/
-title:   Contact Us
-description: 
+layout: default
 ---
-  <h3>Contact Us</h3>
 
   <br/>
   
