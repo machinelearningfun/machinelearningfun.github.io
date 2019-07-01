@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /Contact/
 ---
   <h3>Contact Me</h3>
