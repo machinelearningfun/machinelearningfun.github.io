@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: post
+permalink: /contactus/
+title:   Contact Us
+description: 
 ---
 
   <br/>
