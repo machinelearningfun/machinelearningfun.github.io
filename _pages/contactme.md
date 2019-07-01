@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Contact Me
 permalink: /Contact/
 ---
   <h3>Contact Me</h3>
