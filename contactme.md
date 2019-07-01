@@ -1,12 +1,14 @@
 ---
 layout: post
 permalink: /Contact/
+title:   Contact Us
+description: 
 ---
-  <h3>Contact Me</h3>
+  <h3>Contact Us</h3>
 
   <br/>
   
-  I would love to hear from you. 
+  We would love to hear from you. 
   <hr>
   <br/>
 
