@@ -1,8 +1,7 @@
 ---
-layout: post
-permalink: /syllabus/
-title:   R syllabus
-description: 
+layout: page
+title: R Syllabus
+permalink: /rsyllabus/
 ---
 
 **Day 1**
